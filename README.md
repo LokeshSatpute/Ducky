@@ -60,6 +60,23 @@ The project was developed in multiple phases:
 ## 📁 Repository Structure (Selected)
 
 
+
+---
+
+## 📷 Screenshots
+
+Here are some reference screenshots of Ducky in action:
+
+| Home Page | Quick Chat |
+|---|---|
+| ![Quick_Chat](Demo/QuickChat.png) | ![Generate_Code](Demo/GenerateCode.png) |
+
+| Generate Code | Auto Code (Blueprints) |
+|---|---|
+| ![Learning_Topics](Demo/LearningTopics.png) | ![Auto_Code](Demo/AutoCode.png) |
+
+✅ **Note:** These images are for illustration. The project requires reconfiguration with your own API keys to work fully.
+
 ---
 
 ## 🧩 Blueprint Capabilities
